@@ -56,10 +56,10 @@
 
 ## Cvičení 6
 
-![cv6](pic/cv6_1.png)
+![cv6](pic/cv6_1.PNG)
 
-![cv6](pic/cv6_2.png)
+![cv6](pic/cv6_2.PNG)
 
-![cv6](pic/cv6_3.png)
+![cv6](pic/cv6_3.PNG)
 
-![cv6](pic/cv6_4.png)
+![cv6](pic/cv6_4.PNG)
