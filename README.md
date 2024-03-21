@@ -53,3 +53,13 @@
 ![cv5](pic/cv5_3.png)
 
 ![cv5](pic/cv5_4.png)
+
+## Cvičení 6
+
+![cv6](pic/cv6_1.png)
+
+![cv6](pic/cv6_2.png)
+
+![cv6](pic/cv6_3.png)
+
+![cv6](pic/cv6_4.png)
