@@ -89,3 +89,10 @@
 ## Cvičení 9
 
 ![cv9](pic/cv8_1.png)
+
+## Cvičení 10
+
+![cv10](pic/cv10_1.png)
+
+![cv10](pic/cv10_2.png)
+
