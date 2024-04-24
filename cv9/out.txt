@@ -1,0 +1,8 @@
+Line 3: syntax error
+Value: 10.000000
+Value: -5.000000
+Error in a statement! 
+Value: 3.000000
+Value: 4.605170
+Value: 4.000000
+OK

@@ -63,3 +63,29 @@
 ![cv6](pic/cv6_3.PNG)
 
 ![cv6](pic/cv6_4.PNG)
+
+## Cvičení 7
+
+![cv7](pic/cv7_1.png)
+
+![cv7](pic/cv7_2.png)
+
+## Cvičení 8
+
+![cv8](pic/cv8_1.png)
+
+![cv8](pic/cv8_2.png)
+
+![cv8](pic/cv8_3.png)
+
+![cv8](pic/cv8_4.png)
+
+![cv8](pic/cv8_5.png)
+
+![cv8](pic/cv8_6.png)
+
+![cv8](pic/cv8_7.png)
+
+## Cvičení 9
+
+![cv9](pic/cv8_1.png)

@@ -1,0 +1,21 @@
+expon=1.23e-4;
+print expon;
+i=6.24*7.19;
+i--;
+i = b;
+a=8;
+i=i+a;
+treti_mocnina=27;
+print b;
+print(i);
+z=(sqrt(i)*sqrt(i))+8;
+z++;
+print(z);
+print(cbrt(treti_mocnina));
+dalsi_nova_promenna=0.01;
+chyba=spatna_funkce(dalsi_nova_promenna);
+print(a);
+*-8;
+a--;
+print(a);
+$

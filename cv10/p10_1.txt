@@ -1,0 +1,11 @@
+i=6*7;
+i--;
+i = b;
+a=8;
+i=i+a;
+print b;
+chyba
+print(i);
+z=(sqrt(i)*sqrt(i))+8;
+z++;
+print(z);
