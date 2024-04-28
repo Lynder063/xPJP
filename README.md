@@ -88,7 +88,7 @@
 
 ## Cvičení 9
 
-![cv9](pic/cv8_1.png)
+![cv9](pic/cv9_1.png)
 
 ## Cvičení 10
 
